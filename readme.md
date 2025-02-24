@@ -11,8 +11,7 @@
 ##### config:
 ```
 { 
-    "botToken": "token",
-    "clientId": "client id",
+    "botToken": "bot token",
     "guildId": "server id",
     "botId": "bot id"
  }
