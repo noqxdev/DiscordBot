@@ -1,3 +1,6 @@
-{
-    "botToken": "TOKEN HERE"
-}
+{ 
+    "botToken": "token",
+    "clientId": "client id",
+    "guildId": "server id",
+    "botId": "bot id"
+ }

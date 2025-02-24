@@ -11,6 +11,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
+    "@discordjs/rest": "^2.4.3",
     "discord.js": "^14.18.0"
   }
 }
